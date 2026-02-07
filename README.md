@@ -80,7 +80,7 @@ Retrieves a Python object using its hex ID.
 
 ## 📜 Change Logs
 
-> - [07/02/2026 10:30AM] Initial release of `pointer_table`  
+> - [07/02/2026 10:30AM] Initial release of `pointer_lib`  
 
 ---
 ```
