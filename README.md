@@ -40,7 +40,7 @@ print(retrieved_list)   # [1, 2, 3]
 
 ```bash
 cd your-project-path
-git clone https://github.com/Exoo25/pointerlib/
+git clone https://github.com/Exoo25/pointer_lib/
 ```
 
 >⚠️ **Important:**  
